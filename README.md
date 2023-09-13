@@ -1,9 +1,11 @@
 # Django-REST-Framework
 *Creamos un entorno virtual y lo activamos con los siguientes comandos
 
-python -m virtualenv venv
+ python -m virtualenv venv
 
-.\venv\Scripts\activate 
+Y LUEGO
+
+ .\venv\Scripts\activate 
 
 *Instalamos django
 pip install django
