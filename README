@@ -35,6 +35,8 @@ python manage.py migrate (aqui ya creamos las tablas con el modelo)
 
 *Creamos serializers y api.py para setear bien los modelos de consultas y los permisos
 
+
+
 *Creamos urls.py dentro de projects para el manejo de las urls con el router
 
 *Luego importamos las rutas al urls.py de la carpeta drfsimplecrud
