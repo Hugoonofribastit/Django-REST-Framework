@@ -40,6 +40,10 @@ python manage.py migrate (aqui ya creamos las tablas con el modelo)
 *Creamos urls.py dentro de projects para el manejo de las urls con el router
 
 *Luego importamos las rutas al urls.py de la carpeta drfsimplecrud
-agregando el import de include y seteando el nuevo path('',include('projects.urls'))
+
+
+gregando el import de include y seteando el nuevo path('',include('projects.urls'))
 
 * deploy con https://render.com/docs/deploy-django
+
+pip freeze > requirements.txt
