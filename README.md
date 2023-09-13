@@ -2,6 +2,7 @@
 *Creamos un entorno virtual y lo activamos con los siguientes comandos
 
 python -m virtualenv venv
+
 .\venv\Scripts\activate 
 
 *Instalamos django
