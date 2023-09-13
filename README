@@ -32,6 +32,7 @@ python manage.py makemigrations          (aqui la consola nos indicara que las m
 
 python manage.py migrate (aqui ya creamos las tablas con el modelo)
 
+ver deploy en https://drfsimplecrud-test-8e8s.onrender.com/
 
 *Creamos serializers y api.py para setear bien los modelos de consultas y los permisos
 
